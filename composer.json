@@ -1,0 +1,11 @@
+{
+    "name": "admin/ramandeep",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Ramandeep\\": "src/"
+        }
+    },
+    "require": {
+        "php-ai/php-ml": "^0.10.0"
+    }
+}
